@@ -2,7 +2,7 @@
 
 ## PENERAPAN K-MEANS++ CLUSTERING UNTUK SEGMENTASI CUSTOMER E-COMMERCE INDIA MENGGUNAKAN METODE RFM (RECENCY FREQUENCY MONETARY) 
 
-Latar Belakang
+**Latar Belakang**
 
 Teknologi data mining pada sebuah perusahaan pada dasarnya dapat membantu mempercepat proses pengambilan keputusan secara tepat, memungkinkan perusahaan untuk mengelola informasi yang terkandung di dalam data transaksi menjadi sebuah pengetahuan (knowledge) yang baru. Melalui pengetahuan yang didapat, perusahaan dapat meningkatkan pendapatannya dan mengurangi biaya, dan pada akhirnya dimasa yang akan datang perusahaan dapat lebih kompetitif. 
 
@@ -16,20 +16,20 @@ Frequency merupakan variabel untuk mengukur nilai pelanggan berdasarkan jumlah t
 
 Monetary merupakan variabel untuk mengukur nilai pelanggan berdasarkan jumlah besaran uang yang dikeluarkan pelanggan dalam satu periode. Semakin banyak jumlah besaran uang yang dikeluarkan pelanggan maka nilai semakin besar. 
 
-Tujuan
+**Tujuan**
 
 Pada project kali ini, penulis akan mengkategorikan / klasterisasi pelanggan berdasarkan ciri-ciri  pelanggan dengan RFM (Recency, Frequency, dan Monetary). Hal ini bertujuan agar mengetahui recency (kebaruan pelanggan tersebut memesan barang), frequency (seberapa sering pelanggan tersebut memesan barang), monetary (besaran uang yang dikeluarkan pelanggan), sehingga terbentuk beberapa karakter pelanggan dan mendapat informasi jumlah penjualan barang yang disukai tiap klaster dan mengetahui asal klaster tersebut berasal sehingga target customer tepat sasaran. Kemudian kebijakan promosi nya akan disesuaikan berdasarkan klaster pelanggan tersebut.  
 
-Sumber Data
+**Sumber Data**
 
 Sumber data yang digunakan adalah data e-commerce yang berasal dari india. Dataset tersebut dapat diakses dengan bebas melalui platform kaggle melalui tautan berikut:
 https://www.kaggle.com/benroshan/ecommerce-data?select=List+of+Orders.csv 
 
-Metode yang digunakan 
+**Metode yang digunakan** 
 
 Metode yang digunakan adalah menggunakan penerapan K-Means++ Clustering untuk pengelompokan / segmentasi pelanggan berdasarkan prinsip RFM (Recency, Frequency, Monetary). Penulis akan menggunakan tools google colab dengan bahasa pemrograman python.
 
-Kesimpulan
+**Kesimpulan**
 
 Informasi yang didapat dari projek analisis data kali ini adalah:
 
